@@ -1,0 +1,7 @@
+# compiled site files
+public/*
+
+# vim temporary files
+**/.*.sw*
+.swp
+
